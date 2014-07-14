@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: helvetica;
+	margin-top: 10%;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	border: solid blue;
+}
+
+.choices {
+	width: 940px;
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.choices div {
+	display: inline-block;
+}
